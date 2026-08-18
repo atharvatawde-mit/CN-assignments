@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 int main() {
     int data[20], hamming[30];
     int m, r = 0;
